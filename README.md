@@ -16,5 +16,4 @@ This project contains solutions to various problem sets related to data science 
 
 [Link to Dataset](https://drive.google.com/file/d/18KwSR9aVTZRNaOVF76VE9USSEkqnYzzQ/view?usp=sharing)
 
-## Usage
-Include instructions on how to use the code, dependencies required, etc.
+
